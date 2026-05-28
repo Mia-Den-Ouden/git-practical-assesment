@@ -1,1 +1,1 @@
-This is the initial content for the practical skills assesment repository.
+This is a conflicting change made on the feature branch.
